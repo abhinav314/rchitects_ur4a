@@ -1,6 +1,6 @@
 # RShiny stock analysis, stock forecast and portfolio optimization
 
-This project is for MGMT 586 - Introduction to Python at Krannert School of Management, developed by team R-chitects: Abhinav Chanda, Mohinder Goyal, Karthik Ravindran, Sachin Arakeri, Shivendra Kuman and Robin Jindal.
+This project is for MGMT 586 - Introduction to Python at Krannert School of Management, developed by team R-chitects: Abhinav Chanda, Mohinder Goyal, Karthik Ravindran, Sachin Arakeri and Robin Jindal.
 
 Create a Decision Support System for investors, that allows them to:
 - Track the performance of their stocks
